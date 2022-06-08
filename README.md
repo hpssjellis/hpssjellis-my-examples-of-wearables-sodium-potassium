@@ -1,6 +1,6 @@
 # my-examples-of-wearables-sodium-potassium
 
-# Mainly Sweat, Blood and Tears, or Urine.
+# Mainly Sweat, Blood and Tears, or Urine, but sweat is probably the easiest to work with.
 
 
 Started June 7th 2022
