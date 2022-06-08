@@ -1,6 +1,6 @@
 # my-examples-of-wearables-sodium-potassium
 
-# Mainly Sweat Blood and Tears, or Urine.
+# Mainly Sweat, Blood and Tears, or Urine.
 
 
 Started June 7th 2022
