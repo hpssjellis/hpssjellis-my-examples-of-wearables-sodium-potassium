@@ -12,6 +12,9 @@ Would any of them send a few wearables for a High School Robotics Machine Learni
 
 # University programs that have studied Wearables
 
+https://news.berkeley.edu/2019/08/16/wearable-sensors-detect-whats-in-your-sweat/
+
+https://www.allaboutcircuits.com/technical-articles/exploring-uc-berkeley-wearable-sweat-sensor-monitoring-dehydration/
 
 
 
