@@ -16,10 +16,11 @@ https://news.berkeley.edu/2019/08/16/wearable-sensors-detect-whats-in-your-sweat
 
 https://www.allaboutcircuits.com/technical-articles/exploring-uc-berkeley-wearable-sweat-sensor-monitoring-dehydration/
 
-
+https://www.mobihealthnews.com/content/stanford-and-uc-berkeley-researchers-develop-wearable-sweat-sensor-diagnostic-tool
 
 ## Scientists who study Wearables (Mainly Na and K)
 
+ali javey
 
 
 
