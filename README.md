@@ -2,6 +2,13 @@
 
 # Mainly Sweat, Blood and Tears, or Urine, but sweat is probably the easiest to work with.
 
+update Feb 2023
+
+Wrote the [tds-xiao.ino](tds-xiao.ino) Total Disswolved Solids, sort of conductivity for sweat using the Seeeduino XIAO and the [Gravity TDS](https://ca.robotshop.com/products/gravity-analog-tds-sensor-meter-arduino?gclid=CjwKCAiA3KefBhByEiwAi2LDHHJV5fP53EyUkg7YmMkmIBnG2JrvVo-PCU_DIchM7DoN59APMx-2rBoCAJsQAvD_BwE) it works, so making a case for it. 
+
+
+
+
 
 Started June 7th 2022
 
