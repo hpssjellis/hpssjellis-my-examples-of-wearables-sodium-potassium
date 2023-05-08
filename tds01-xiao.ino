@@ -15,11 +15,10 @@
 * 
 * 2. More details, please click this link: <https://www.dfrobot.com/wiki/index.php/Gravity:_Analog_TDS_Sensor_/_Meter_For_Arduino_SKU:_SEN0244>
 
-PiINS for TDS
+Pins for TDS
 A1  analog read   V
 3.3V  VCC in      +
 GND    GND        -
-
 
 
 *****************************************************/
