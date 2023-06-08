@@ -41,7 +41,14 @@ ali javey
 
 
 
+More research found June 2023
 
+https://open.oregonstate.education/aandp/chapter/26-1-body-fluids-and-fluid-compartments/
+
+https://lpi.oregonstate.edu/mic/minerals/sodium
+
+
+https://www.nature.com/articles/s41598-022-20825-0
 
 
 
